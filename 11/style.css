@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    width: 100%;
+    height: 400%;background-color: antiquewhite;
+    border: 5px solid red;
+    padding: 20px 35px;
+    margin: 10px 15px;
+}
