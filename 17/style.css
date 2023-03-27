@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+
+}
+body{
+    font-size: 1.6%;
+}
+.container{
+    border: 0.3rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    height: 100vh;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.box{
+    width: 10rem;
+    height: 10rem;
+
+}
+
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: yellow;
+}
+.box3{
+    background-color: violet;
+}
+.box4{
+    background-color: tomato;
+}
+.box5{
+    background-color: springgreen;
+}
+.box6{
+    background-color: cornflowerblue;
+}
